@@ -1,0 +1,30 @@
+channels:
+    Alexa 405: OrigDNA
+    Alexa 488: OrigB3tub
+    Alexa 546: OrigPhal
+    Alexa 647: OrigCM
+
+metadata:
+    Row: Row
+    Col: Col
+    FieldID: FieldID
+    PlaneID: PlaneID
+    ChannelID: ChannelID
+    ChannelName: ChannelName
+    ImageResolutionX: ImageResolutionX
+    ImageResolutionY: ImageResolutionY
+    ImageSizeX: ImageSizeX
+    ImageSizeY: ImageSizeY
+    BinningX: BinningX
+    BinningY: BinningY
+    MaxIntensity: MaxIntensity
+    PositionX: PositionX
+    PositionY: PositionY
+    PositionZ: PositionZ
+    AbsPositionZ: AbsPositionZ
+    AbsTime: AbsTime
+    MainExcitationWavelength: MainExcitationWavelength
+    MainEmissionWavelength: MainEmissionWavelength
+    ObjectiveMagnification: ObjectiveMagnification
+    ObjectiveNA: ObjectiveNA
+    ExposureTime: ExposureTime
